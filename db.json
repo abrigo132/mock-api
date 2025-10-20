@@ -180,35 +180,5 @@
       "amount": 176.25,
       "createdAt": "2024-06-09T14:50:00Z"
     },
-    {
-      "id": 31,
-      "customerEmail": "andrey.morozov@gmail.com",
-      "amount": 299.45,
-      "createdAt": "2024-06-10T12:15:00Z"
-    },
-    {
-      "id": 32,
-      "customerEmail": "svetlana.romanova@mail.com",
-      "amount": 111.80,
-      "createdAt": "2024-06-11T17:05:00Z"
-    },
-    {
-      "id": 33,
-      "customerEmail": "viktor.pavlov@yandex.ru",
-      "amount": 233.90,
-      "createdAt": "2024-06-12T10:45:00Z"
-    },
-    {
-      "id": 34,
-      "customerEmail": "elena.nikitina@gmail.com",
-      "amount": 87.65,
-      "createdAt": "2024-06-13T15:25:00Z"
-    },
-    {
-      "id": 35,
-      "customerEmail": "alex.petrov@mail.com",
-      "amount": 154.20,
-      "createdAt": "2024-06-14T13:40:00Z"
-    }
   ]
 }
