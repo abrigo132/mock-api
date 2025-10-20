@@ -174,11 +174,5 @@
       "amount": 54.35,
       "createdAt": "2024-06-08T09:35:00Z"
     },
-    {
-      "id": 30,
-      "customerEmail": "irina.zaitseva@yandex.ru",
-      "amount": 176.25,
-      "createdAt": "2024-06-09T14:50:00Z"
-    },
   ]
 }
